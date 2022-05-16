@@ -26,6 +26,6 @@ The multipliers are based on your percentage of contribution:
   * 10-30% : multiplier = 1
   * 30- 50% : multiplier = 0.75
   * 50 - 75% : multiplier = 0.5
-  * > 75%: multiplier = 0
+  * greater than 75%: multiplier = 0
 The keen observer will note that contributing too much will also result in a penalty. This means that you must 
 find a way to share the responsibility equally. You do not have the option to fail to work together!
