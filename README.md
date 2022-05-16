@@ -2,7 +2,7 @@
 You will use this repository for all of your group's programming work. 
 There are two main directories in this repository:
   * __Programming__ - Here you will work together to explore various programming languages.
-  * __Intepreter__ = This folder will house your group's term project, where you will create a new interpreted langauge.
+  * __Intepreter__ - This folder will house your group's term project, where you will create a new interpreted langauge.
 
 # Assignment Submissions
 Each group assignment will tell you the correct folder in which you are to place your work.
